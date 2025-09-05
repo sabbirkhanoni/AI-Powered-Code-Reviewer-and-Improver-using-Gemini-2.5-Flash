@@ -36,7 +36,7 @@ git clone https://github.com/sabbirkhanoni/AI-Powered-Code-Reviewer-and-Improver
 cd AI-Powered-Code-Reviewer-and-Improver-using-Gemini-2.5-Flash
 npm install
 npm start
-
+```
 ⚠️ Before starting, create a .env file in the backend directory and add your Gemini API key:
 GEMINI_API_KEY=your_api_key_here
 
@@ -62,7 +62,7 @@ Once generated, copy the key and store it securely.
 - Add It to Your Project
 
 In your project folder, create a .env file and add:
-GEMINI_API_KEY=your_api_key_here
+```GEMINI_API_KEY=your_api_key_here```
 
 📚 About Gemini 2.5 Flash
 Gemini 2.5 Flash is Google’s latest AI model optimized for speed and reasoning. It supports long context windows and delivers high-quality feedback at low latency—perfect for real-time developer tools.
